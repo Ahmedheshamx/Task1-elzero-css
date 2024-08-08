@@ -440,7 +440,7 @@ body {
   text-align: center;
 }
 .contact .info .label {
-  font-size: 35px;
+  font-size: 2rem;
   font-weight: 800;
   color: var(--secondary-color);
   letter-spacing: -2px;
@@ -448,7 +448,7 @@ body {
 }
 .contact .info .link {
   display: block;
-  font-size: 35px;
+  font-size:2rem;
   font-weight: 800;
   color: var(--main-color);
   text-decoration: none;
@@ -466,6 +466,6 @@ body {
 @media (max-width: 767px) {
   .contact .info .label,
   .contact .info .link {
-    font-size: 25px;
+    font-size: 1rem;
   }
 }
